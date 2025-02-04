@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF_8">
-    <meta name="view port"
-content="width=device-width,
-initial-scale=1.0">
-    <title>scooby -Fun & Games</title>
-<link>="stylesheet"href="style.cs">
-<script src="script.js"defer></script>
-</head>
-<body>
-    <header>
-        <h1>Welcome to scooby!</h1>
+
